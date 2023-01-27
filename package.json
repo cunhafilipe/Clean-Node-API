@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cunhafilipe/Clean-Node-API/issues"
   },
-  "homepage": "https://github.com/cunhafilipe/Clean-Node-API#readme"
+  "homepage": "https://github.com/cunhafilipe/Clean-Node-API#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.5.0"
+  }
 }
